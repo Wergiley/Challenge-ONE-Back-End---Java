@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Conversor de moedas</h1>
 <p align="center">Este projeto é um aplicativo desktop feito em Java que converte diversas moedas.</p>
 
@@ -22,3 +23,7 @@ $ cd conversorDeMoeda
 
 
 
+=======
+# Challenge-ONE-Back-End---Java
+# Challenge ONE | Java | Back End | Conversor de Moedas.
+>>>>>>> 5709c52e59e30367eb8e95f16af3cfaed2a8c066
