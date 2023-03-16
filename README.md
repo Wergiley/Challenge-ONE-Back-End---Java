@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1 align="center">Conversor de moedas</h1>
 <p align="center">Este projeto é um aplicativo desktop feito em Java que converte diversas moedas.</p>
 
