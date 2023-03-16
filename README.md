@@ -20,10 +20,6 @@ $ cd conversorDeMoeda
 
 # Abra o VsCode e execute o programa main.java, na pasta src.
 
-
-
-
-=======
+===================================================================
 # Challenge-ONE-Back-End---Java
 # Challenge ONE | Java | Back End | Conversor de Moedas.
->>>>>>> 5709c52e59e30367eb8e95f16af3cfaed2a8c066
