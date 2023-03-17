@@ -1,7 +1,7 @@
 
 <h1 align="center">Conversor de Moedas e Temperaturas</h1>
 <p align="center">Este projeto é um aplicativo desktop feito em Java que converte diversas moedas.</p>
-
+<img src="cms_files_10224_1671211937Prancheta_8.png" width="150px" align="right">
 
 ## Pré-requisitos
 
